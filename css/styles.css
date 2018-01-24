@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  font-family: fantasy;
+}
+
+.jumbotron {
+  margin-top: -20px;
+
+}
+
+input {
+  margin-top: 10px;
+}
+
+.panel {
+  margin-left: 150px;
+  margin-right: 150px;
+
+}
