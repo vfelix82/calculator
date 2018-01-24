@@ -10,6 +10,7 @@ Basic calculator that add, subtract, multiply, divide.
 
 ## Setup/Installation Requirements
 
+* Direct link https://vfelix82.github.io/calculator/
 * Clone from github
 * Open with html
 * Pick a operator
